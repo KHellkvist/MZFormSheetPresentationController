@@ -17,7 +17,7 @@
 		468A6C231C4B2FD700F84D81 /* MZFormSheetPresentationController Swift Example-Bridging-Header.h in Headers */ = {isa = PBXBuildFile; fileRef = 468A6C0A1C4B2FD700F84D81 /* MZFormSheetPresentationController Swift Example-Bridging-Header.h */; };
 		468A6C241C4B2FD700F84D81 /* MZFormSheetPresentationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 468A6C0B1C4B2FD700F84D81 /* MZFormSheetPresentationController.h */; };
 		468A6C251C4B2FD700F84D81 /* MZFormSheetPresentationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 468A6C0C1C4B2FD700F84D81 /* MZFormSheetPresentationController.m */; };
-		468A6C261C4B2FD700F84D81 /* MZFormSheetPresentationViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 468A6C0D1C4B2FD700F84D81 /* MZFormSheetPresentationViewController.h */; };
+		468A6C261C4B2FD700F84D81 /* MZFormSheetPresentationViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 468A6C0D1C4B2FD700F84D81 /* MZFormSheetPresentationViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		468A6C271C4B2FD700F84D81 /* MZFormSheetPresentationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 468A6C0E1C4B2FD700F84D81 /* MZFormSheetPresentationViewController.m */; };
 		468A6C281C4B2FD700F84D81 /* MZFormSheetPresentationViewControllerAnimatedTransitioning.h in Headers */ = {isa = PBXBuildFile; fileRef = 468A6C0F1C4B2FD700F84D81 /* MZFormSheetPresentationViewControllerAnimatedTransitioning.h */; };
 		468A6C291C4B2FD700F84D81 /* MZFormSheetPresentationViewControllerAnimator.h in Headers */ = {isa = PBXBuildFile; fileRef = 468A6C101C4B2FD700F84D81 /* MZFormSheetPresentationViewControllerAnimator.h */; };
@@ -139,10 +139,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				468A6C2D1C4B2FD700F84D81 /* MZFormSheetPresentationViewControllerInteractiveTransitioning.h in Headers */,
+				468A6C261C4B2FD700F84D81 /* MZFormSheetPresentationViewController.h in Headers */,
 				468A6C341C4B2FD700F84D81 /* UIViewController+TargetViewController.h in Headers */,
 				468A6BFD1C4B2FAD00F84D81 /* MZFormSheetPresentationController.h in Headers */,
 				468A6C321C4B2FD700F84D81 /* MZTransition.h in Headers */,
-				468A6C261C4B2FD700F84D81 /* MZFormSheetPresentationViewController.h in Headers */,
 				468A6C1D1C4B2FD700F84D81 /* MZBlurEffectAdapter.h in Headers */,
 				468A6C291C4B2FD700F84D81 /* MZFormSheetPresentationViewControllerAnimator.h in Headers */,
 				468A6C231C4B2FD700F84D81 /* MZFormSheetPresentationController Swift Example-Bridging-Header.h in Headers */,
